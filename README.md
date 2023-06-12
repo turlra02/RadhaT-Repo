@@ -1,2 +1,2 @@
 # RadhaT-Repo
-public repo
+public repository
